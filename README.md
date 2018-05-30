@@ -11,9 +11,10 @@ Applciation is Global
 Active is checked. 
 Under Menu "When to Run" 
 Type is New
-Condition is Headers contain "O365Alerts@microsoft.com
+Condition is Headers contain "O365Alerts@microsoft.com"
 
 The Action Scipt is posted to this repo. 
 
 PDF document has the screen shots from my ServiceNOW Dev instance showing how to configure the event rules and event field mappings. 
+
 Only item I have not listed is the Alert to Incident Task & Action. That is specific to your own internal security processes. 
