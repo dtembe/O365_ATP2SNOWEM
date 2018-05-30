@@ -1,5 +1,5 @@
 current.source = 'O365-ATP';
-current.resource = 'CI-TSE-Security';
+current.resource = 'O365-Security';
 current.description = email.body_text;
 current.time_of_event = new GlideDateTime();
 current.message_key = new GlideDateTime();
